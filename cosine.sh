@@ -45,8 +45,16 @@ bcCheck
 done
 
 ### Check if first argument specified
+# If h then show help
+if [ "$1" == "-h" ] || [ "$1" == "-H" ] || [ "$1" == "--help" ] || [ "$1" == "help" ] || [ "$1" == "HELP" ]; then
+	echo -e "##################################################"
+	echo -e "Welcome $USER \b!"
+	echo -e "This simple script allows you to calculate the cosine of a degree."
+	echo -e "Pre-specify a degree with the first argument to echo the result."
+	echo -e "The script asks for a number if no argument specified."
+	echo -e "##################################################"
 # If not then ask for a number
-if [ "$1" == "" ]; then
+elif [ "$1" == "" ]; then
 	echo -e "Type an angle in degrees!"
 	read number
 	#degree=45
