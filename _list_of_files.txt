@@ -1,5 +1,5 @@
 Date of creation: 16. 07. 2020.
-Last modified: 21. 07. 2020. (23:13)
+Last modified: 06. 09. 2020. (13:20)
 
 This list contains all uploaded scripts with the basic informations.
 (Data is empty if there isn't any information given by the owner)
@@ -18,3 +18,6 @@ ID		DATE		OWNER		FILE		TYPE		NAME			DESCRIPTION
 ####################################################################################################################################################################################
 0000001		160720		matefon		pi.sh		bash		CALC PI			Script to calculate pi using bc
 0000002		210720		matefon		cosine.sh	bash		CALC COSINE		Script to calculate cosine using bc	
+0000003		060920		matefon		throw.sh	bash		THROW DISTANCE CALC	Script to calculate how far a thrown ball will travel (beta)
+0000004		060920		matefon		throw_stat.sh	bash		THROW.SH STATISTICS	Script to export data calculated by throw.sh (beta)
+0000005		060920		matefon		throw_stat.xlsx	Excel		THROW.SH ILLUSTRATION	Excel file illustrating the output of throw_stat.sh
