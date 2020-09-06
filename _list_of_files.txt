@@ -14,10 +14,10 @@ Legend:		ID	SERIAL (hexadecimal)
 		DESC.	SCRIPT DESCRIPTION
 
 ####################################################################################################################################################################################
-ID		DATE		OWNER		FILE		TYPE		NAME			DESCRIPTION
+ID		DATE	OWNER		FILE			TYPE		NAME				DESCRIPTION
 ####################################################################################################################################################################################
-0000001		160720		matefon		pi.sh		bash		CALC PI			Script to calculate pi using bc
-0000002		210720		matefon		cosine.sh	bash		CALC COSINE		Script to calculate cosine using bc	
-0000003		060920		matefon		throw.sh	bash		THROW DISTANCE CALC	Script to calculate how far a thrown ball will travel (beta)
-0000004		060920		matefon		throw_stat.sh	bash		THROW.SH STATISTICS	Script to export data calculated by throw.sh (beta)
-0000005		060920		matefon		throw_stat.xlsx	Excel		THROW.SH ILLUSTRATION	Excel file illustrating the output of throw_stat.sh
+0000001		160720	matefon		pi.sh			bash		CALC PI			Script to calculate pi using bc
+0000002		210720	matefon		cosine.sh		bash		CALC COSINE		Script to calculate cosine using bc	
+0000003		060920	matefon		throw.sh		bash		THROW DISTANCE CALC	Script to calculate how far a thrown ball will travel (beta)
+0000004		060920	matefon		throw_stat.sh		bash		THROW.SH STATISTICS	Script to export data calculated by throw.sh (beta)
+0000005		060920	matefon		throw_stat.xlsx		Excel		THROW.SH ILLUSTRATION	Excel file illustrating the output of throw_stat.sh
