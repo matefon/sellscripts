@@ -1,5 +1,5 @@
 Date of creation: 16. 07. 2020.
-Last modified: 06. 09. 2020. (13:20)
+Last modified: 07. 09. 2020. (18:20)
 
 This list contains all uploaded scripts with the basic informations.
 (Data is empty if there isn't any information given by the owner)
@@ -21,3 +21,4 @@ ID		DATE	OWNER		FILE			TYPE		NAME				DESCRIPTION
 0000003		060920	matefon		throw.sh		bash		THROW DISTANCE CALC	Script to calculate how far a thrown ball will travel (beta)
 0000004		060920	matefon		throw_stat.sh		bash		THROW.SH STATISTICS	Script to export data calculated by throw.sh (beta)
 0000005		060920	matefon		throw_stat.xlsx		Excel		THROW.SH ILLUSTRATION	Excel file illustrating the output of throw_stat.sh
+0000006		070920	matefon		randomStats.java	Java		RANDOMSTATS		Java program to generate and count random numbers
