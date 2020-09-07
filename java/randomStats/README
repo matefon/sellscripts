@@ -1,17 +1,16 @@
 How to use:
 
--Download all 3 files and run randomStats_10000.java
+-Download the 2 files and run randomStats.java
 -It will generate 10000 random number from 1 to 10 by default and save them to the text file (existing data will be overwritten!).
 -It will automatically count the numbers
 
 How to specify the amount of numbers to generate:
 
--In randomStats_10000.java, line 9 ("int forNumber = 100000;"), change 10000 to another value. Then it will generate the specified amount of numbers but still 1 to 10.
+-In line 10 ("int forNumber = 100000;"), change 10000 to another value. Then it will generate the specified amount of numbers but still 1 to 10.
 
 How to specify the numbers to generate:
 
--In randomStats_10000.java, line 12 ("int maxNum = 10;"), change 10 to another value. (e.g. 20)
--In randomStatCounter.java, line 10 ("int howMany = 10,howManyNum = howMany,[......]", change 10 to the value you entered before in the other file. (e.g. 20)
+-In line 9 ("int maxNum = 10;"), change 10 to another value. (e.g. 20)
 -From now the Java program will generate random numbers between 1 and the number you entered. (e.g. 1 to 20)
 
 Have fun!
